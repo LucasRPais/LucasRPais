@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LucasRPais
 - 👀 I’m interested in ... Leaning,Work
-- 🌱 I’m currently learning ... Algoritmo 
+- 🌱 I’m currently learning ... Algorithm
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Email: LucasPais663@Gmail.com
 <!---
